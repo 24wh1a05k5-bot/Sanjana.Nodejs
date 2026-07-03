@@ -4,8 +4,8 @@
   "description": "git config --global user.name \"24wh1a05k5-bot\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "start": "node server.js"
+}
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shubhi0811/Sanjana.Nodejs.git"
