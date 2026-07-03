@@ -1,27 +1,23 @@
 {
   "name": "sanjana.nodejs",
   "version": "1.0.0",
+  "description": "Node.js Express application",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1"
-  }
-}
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/24wh1a05k5-bot/Sanjana.Nodejs.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/24wh1a05k5-bot/Sanjana.Nodejs/issues"
   },
-  "homepage": "https://github.com/24wh1a05k5-bot/Sanjana.Nodejs#readme",
-  "dependencies": {
-    "express": "^5.2.1"
-  }
+  "homepage": "https://github.com/24wh1a05k5-bot/Sanjana.Nodejs#readme"
 }
