@@ -15,9 +15,9 @@
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/shubhi0811/Sanjana.Nodejs/issues"
+    "url": "https://github.com/24wh1a05k5-bot/Sanjana.Nodejs/issues"
   },
-  "homepage": "https://github.com/shubhi0811/Sanjana.Nodejs#readme",
+  "homepage": "https://github.com/24wh1a05k5-bot/Sanjana.Nodejs#readme",
   "dependencies": {
     "express": "^5.2.1"
   }
