@@ -10,7 +10,6 @@ const users = [
     image: "/Frontend/images/john.png"
   }
 ];
-
 let curUserId = 0;
 
 function toggle() {
