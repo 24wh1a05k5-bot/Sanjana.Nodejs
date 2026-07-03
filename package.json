@@ -1,10 +1,13 @@
 {
   "name": "sanjana.nodejs",
   "version": "1.0.0",
-  "description": "git config --global user.name \"24wh1a05k5-bot\"",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-  "start": "node server.js"
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
   "repository": {
     "type": "git",
